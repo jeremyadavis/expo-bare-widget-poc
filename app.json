@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "camp-countdown-bare",
+    "slug": "camp-countdown-bare",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
